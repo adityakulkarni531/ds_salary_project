@@ -71,4 +71,9 @@ df.spark_yn.value_counts()
 #drop first column (Unnamed)
 df_out = df.drop('Unnamed: 0', axis = 1)
 
+#save
+df_out.to_csv('salary_data_cleaned.csv', index = False)
+df_out.to_excel('salary_data_cleaned.xlsx', index = False)
+
+pd.read_csv('salary_data_cleaned.csv')
 
