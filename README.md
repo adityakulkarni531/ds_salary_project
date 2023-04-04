@@ -52,3 +52,4 @@ I looked at the distributions of the data and the value counts for the various c
 ![alt text](https://github.com/adityakulkarni531/ds_salary_project/blob/main/position_by_sector.png)
 ![alt text](https://github.com/adityakulkarni531/ds_salary_project/blob/main/salary_by_job_title_and_Seniority.png)
 ![alt text](https://github.com/adityakulkarni531/ds_salary_project/blob/main/correlation_visual.png)
+
